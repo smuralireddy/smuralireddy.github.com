@@ -1,16 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Blog of a CEGian]]></title>
   <link href="http://smuralireddy.github.com/atom.xml" rel="self"/>
   <link href="http://smuralireddy.github.com/"/>
-  <updated>2012-09-23T16:43:48+05:30</updated>
+  <updated>2012-09-23T22:39:18+05:30</updated>
   <id>http://smuralireddy.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Muralidhar Reddy.S]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://smuralireddy.github.com/blog/2012/09/23/hello-world/"/>
+    <updated>2012-09-23T21:37:00+05:30</updated>
+    <id>http://smuralireddy.github.com/blog/2012/09/23/hello-world</id>
+    <content type="html"><![CDATA[<p><html>
+<body>
+Hiya guys !<br>
+I am Muralidhar Reddy from College of Engineering, Guindy studying final year IT.This is my first blog post. I have been considering the idea of blogging my experiences, my thoughts etc since a year. But it didnt take off till now due to various reasons. <br/>
+And this being my first post , I won&#8217;t be helding you for long. <br/>
+So..<br/>
+<b>echo &#8220;Hello World&#8221;<b>
+</body>
+</html></p>
+]]></content>
+  </entry>
   
 </feed>
